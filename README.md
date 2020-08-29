@@ -6,6 +6,6 @@
 어떻게 시작했는지 ~~~~
 
 
-## 과제 진행 별 기록일지 : [Daily Record] 폴더 
+### 과제 진행 별 기록일지 : [Daily Record] 폴더 
 
-## 과제 멘토링 내용 리뷰 : [Mentoring Review] 폴더 참고
+### 과제 멘토링 내용 리뷰 : [Mentoring Review] 폴더 참고
