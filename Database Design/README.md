@@ -17,19 +17,19 @@ Machine도 마찬가지.
 값이 고정값인 것과 동적인 값으로 나눠서 설계
 
 ## Database 설계
- ###아이템(master)
+ ### 아이템(master)
  - item_key
  - 제품명
  - 제품 목표 규격 (L,W,H)
  - 부품명(BOW)
  
- ###설비(master)
+ ### 설비(master)
  - machine_key
  - 설비명
  - 설비에서 제공하는 정보
  - 설비 역할
  
- ###생산이력
+ ### 생산이력
  - 생산_key
  - item_key
  - machine_key
